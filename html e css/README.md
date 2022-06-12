@@ -1,0 +1,1 @@
+Essa pasta é parte do curso que orienta sobre  a Introdução a criação de websites com HTML5 e CSS3. É realizado uma estrutura de site, informando os conceitos básicos de páginas web. Ensina-se a separar arquivos html e css.
